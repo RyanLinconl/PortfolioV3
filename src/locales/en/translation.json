@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm Ryan",
+    "title": "Full Stack Developer",
+    "description": "I create digital experiences by combining the beauty of the front end with the robustness of the back end. Let's build something amazing together.",
+    "viewProjects": "View Projects",
+    "getContact": "Get in touch"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "theme": "Theme"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "I'm a full-stack developer who loves blending creativity and code. I've been curious since I was a kid and always enjoyed making art — today I use that mix to build digital experiences that help people. I work on AI integrations to make interfaces more natural, practical, and comfortable. I treat design and development as one: creating beautiful, useful solutions. I simply love what I do.",
+    "experience": "Experience",
+    "education": "Education",
+    "experience_item1": "Full-Stack Development Intern - Suzano (Feb 2025-Present)",
+    "education_items": [
+      "Systems Analysis and Development at Unifecaf 2022-2024",
+      "Internet Systems at Unicid 2024-2026",
+      "Next.js Course at Alura 2025",
+      "JavaScript Course at Alura 2023"
+    ]
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "subtitle": "A showcase of my capabilities across the stack.",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "tools": "Tools",
+    "softskills": {
+      "title": "Softskills",
+      "skill1": "Creativity",
+      "skill2": "Communication",
+      "skill3": "Teamwork",
+      "skill4": "Problem Solving",
+      "skill5": "Proactivity",
+      "skill6": "Observant/Curious"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "gamy": {
+      "title": "Gamy - Virtual Assistant for Games",
+      "description": "Gamy is a nerdy and fun virtual assistant specialized in everything about games. Whether to search for news, tips, recommendations or curiosities from the gaming universe, Gamy is always ready to help!"
+    },
+    "mikaeru": {
+      "title": "Mikaeru - 2D Platform Game",
+      "description": "A 2D platform game developed with Unity and C#, featuring mechanics like double jump, basic AI enemies, and visual effects with parallax. It has 6 levels with different challenges."
+    },
+    "opuscheck": {
+      "title": "Opus Check - To-Do List App",
+      "description": "Opus Check is a web application for listing daily tasks!"
+    },
+    "webscraping": {
+      "title": "Web Scraping - Data Extraction Bot",
+      "description": "Data extraction robot from Magazine Luiza."
+    },
+    "rick-and-morty-api": {
+      "title": "Rick and Morty API App",
+      "description": "A simple web application that uses the Rick and Morty API to display character information."
+    },
+    "youtube-api": {
+      "title": "Simple YouTube with API",
+      "description": "Simple YouTube using an API created by me."
+    },
+    "projeto-sass-css": {
+      "title": "Calmaria Spa Landing Page",
+      "description": "Landing page built with SASS in CSS!"
+    },
+    "minecraft-best-mods": {
+      "title": "Minecraft Best Mods",
+      "description": "A site focused on responsiveness using the MobileFirst technique."
+    },
+    "ping-pong": {
+      "title": "Ping Pong Game",
+      "description": "In this game your goal is to hit the ball and not let the opponent score points!"
+    },
+    "atravessando-a-rua": {
+      "title": "Crossing the Street",
+      "description": "In this game your goal is to cross the street.. but watch out for the cars!"
+    },
+    "live": "See project",
+    "code": "See code",
+    "showAll": "Show All",
+    "relevant": "Most relevant",
+    "lessRelevant": "Less relevant"
+  },
+  "contact": {
+    "title": "Let's Talk?",
+    "description": "I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.",
+    "email": "Send Me an Email"
+  },
+  "time-machine": {
+    "title": "Would you like to go back in time?",
+    "description": "View the older versions of my portfolio:",
+    "img-description1": "Portfolio — Version 2022",
+    "img-description2": "Portfolio — Version 2023",
+    "button": "Close"
+  },
+  "chat-bot": {
+    "chat-placeholder": "Hi! Ask me about Ryan's skills, experience, projects, or fun facts about him.",
+    "placeholder": "Type your message...",
+    "tooltip": "Ask anything about Ryan here!",
+    "ai-name": "Ryan Lira AI"
+  }
+}

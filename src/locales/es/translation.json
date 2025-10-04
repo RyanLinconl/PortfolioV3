@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "greeting": "Hola, soy Ryan",
+    "title": "Desarrollador Full Stack",
+    "description": "Creo experiencias digitales combinando la belleza del front-end con la solidez del back-end. Construyamos algo increíble juntos.",
+    "viewProjects": "Ver Proyectos",
+    "getContact": "Contáctame"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "theme": "Tema"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "bio": "Soy desarrollador full-stack que disfruta unir creatividad y código. Desde niño fui curioso y siempre me gustó crear arte — hoy uso esa mezcla para construir experiencias digitales que ayudan a las personas. Trabajo con integraciones de IA para que las interfaces sean más naturales, prácticas y cómodas. Para mí, diseño y desarrollo son lo mismo: crear soluciones bonitas y útiles. Simplemente amo lo que hago.",
+    "experience": "Experiencia",
+    "education": "Educación",
+    "experience_item1": "Pasante en Desarrollo Full-Stack - Suzano (Feb 2025-Presente)",
+    "education_items": [
+      "Análisis y Desarrollo de Sistemas en Unifecaf 2022-2024",
+      "Sistemas para Internet en Unicid 2024-2026",
+      "Curso de Next.js en Alura 2025",
+      "Curso de JavaScript en Alura 2023"
+    ]
+  },
+  "skills": {
+    "title": "Habilidades y Tecnologías",
+    "subtitle": "Una vitrina de mis capacidades en todo el stack.",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "tools": "Herramientas",
+    "softskills": {
+      "title": "Habilidades blandas",
+      "skill1": "Creatividad",
+      "skill2": "Comunicación",
+      "skill3": "Trabajo en equipo",
+      "skill4": "Resolución de problemas",
+      "skill5": "Proactividad",
+      "skill6": "Observador/Curioso"
+    }
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "gamy": {
+      "title": "Gamy - Asistente Virtual para Juegos",
+      "description": "Gamy es un asistente virtual nerd y divertido especializado en todo sobre juegos. Ya sea para buscar noticias, consejos, recomendaciones o curiosidades del universo gamer, ¡Gamy siempre está listo para ayudar!"
+    },
+    "mikaeru": {
+      "title": "Mikaeru - Juego de Plataforma 2D",
+      "description": "Un juego de plataforma 2D desarrollado con Unity y C#, con mecánicas como salto doble, enemigos con IA básica y efectos visuales con parallax. Contiene 6 fases con diferentes desafíos."
+    },
+    "opuscheck": {
+      "title": "Opus Check - Aplicación de Lista de Tareas",
+      "description": "¡Opus Check es una aplicación web para listar tareas del día a día!"
+    },
+    "webscraping": {
+      "title": "Web Scraping - Robot de Extracción de Datos",
+      "description": "Robot de extracción de datos de Magazine Luiza."
+    },
+    "rick-and-morty-api": {
+      "title": "Aplicación API de Rick and Morty",
+      "description": "Una aplicación web simple que utiliza la API de Rick and Morty para mostrar información sobre los personajes."
+    },
+    "youtube-api": {
+      "title": "YouTube Simple con API",
+      "description": "YouTube simple utilizando una API creada por mí."
+    },
+    "projeto-sass-css": {
+      "title": "Calmaria Spa Landing Page",
+      "description": "¡Landing page hecha con SASS en CSS!"
+    },
+    "minecraft-best-mods": {
+      "title": "Mejores Mods de Minecraft",
+      "description": "Un sitio con enfoque en responsividad utilizando la técnica MobileFirst."
+    },
+    "ping-pong": {
+      "title": "Juego de Ping Pong",
+      "description": "¡En este juego tu objetivo es rebotar la pelota y no dejar que el oponente haga puntos!"
+    },
+    "atravessando-a-rua": {
+      "title": "Cruzando la Calle",
+      "description": "¡En este juego tu objetivo es cruzar la calle.. pero cuidado con los coches!"
+    },
+    "live": "Ver proyecto",
+    "code": "Ver codigo",
+    "showAll": "Mostrar Todo",
+    "relevant": "Más relevantes",
+    "lessRelevant": "Menos relevantes"
+  },
+  "contact": {
+    "title": "¿Hablamos?",
+    "description": "Siempre estoy abierto a discutir nuevos proyectos, ideas creativas u oportunidades para ser parte de tus visiones.",
+    "email": "Envíame un Email"
+  },
+  "time-machine": {
+    "title": "¿Te gustaría volver al pasado?",
+    "description": "Mira las versiones antiguas de mi portafolio:",
+    "img-description1": "Portafolio — Versión 2022",
+    "img-description2": "Portafolio — Versión 2023",
+    "button": "Cerrar"
+  },
+  "chat-bot": {
+    "chat-placeholder": "¡Hola! Pregúntame sobre las habilidades, experiencia, proyectos o datos curiosos de Ryan.",
+    "placeholder": "Escribe tu mensaje...",
+    "tooltip": "Resuelve tus dudas sobre Ryan aquí.",
+    "ai-name": "Ryan Lira IA"
+  }
+}

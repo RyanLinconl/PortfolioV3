@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "greeting": "Olá, eu sou Ryan",
+    "title": "Desenvolvedor Full Stack",
+    "description": "Eu crio experiências digitais, combinando a beleza do front-end com a robustez do back-end. Vamos construir algo incrível juntos.",
+    "viewProjects": "Ver Projetos",
+    "getContact": "Entrar em contato"
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "contact": "Contato",
+    "theme": "Tema"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "bio": "Sou desenvolvedor full-stack que ama juntar criatividade e código. Desde pequeno fui curioso e sempre gostei de fazer arte — hoje uso essa mistura para construir experiências digitais que ajudam as pessoas. Trabalho com integrações de IA para deixar interfaces mais naturais, práticas e confortáveis. Faço do design e do desenvolvimento uma mesma coisa: criar soluções bonitas e úteis. Simplesmente amo o que faço.",
+    "experience": "Experiência",
+    "education": "Escolaridade",
+    "experience_item1": "Estagiário em Desenvolvimento Full-Stack - Suzano (Fev 2025-Presente)",
+    "education_items": [
+      "Análise e Desenvolvimento de Sistemas pela Unifecaf 2022-2024",
+      "Sistemas para Internet Unicid 2024-2026",
+      "NextJs Alura 2025",
+      "JavaScript Alura 2023"
+    ]
+  },
+  "skills": {
+    "title": "Habilidades & Tecnologias",
+    "subtitle": "Uma vitrine das minhas capacidades em todo o stack.",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "tools": "Ferramentas",
+    "softskills": {
+      "title": "Softskills",
+      "skill1": "Criatividade",
+      "skill2": "Comunicação",
+      "skill3": "Trabalho em equipe",
+      "skill4": "Resolução de problemas",
+      "skill5": "Proatividade",
+      "skill6": "Observador/Curioso"
+    }
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "gamy": {
+      "title": "Gamy - Assistente Virtual para Games",
+      "description": "Gamy é um assistente virtual nerd e divertido especializado em tudo sobre games. Seja para buscar notícias, dicas, recomendações ou curiosidades do universo gamer, o Gamy está sempre pronto para ajudar!"
+    },
+    "mikaeru": {
+      "title": "Mikaeru - Jogo de Plataforma 2D",
+      "description": "Este repositório contém um jogo de plataforma 2D desenvolvido com Unity e C#. O projeto apresenta uma jogabilidade envolvente e mecânicas como pulo duplo, inimigos com IA básica, e efeitos visuais com parallax. São 6 fases no total, com diferentes desafios e ambientes."
+    },
+    "opuscheck": {
+      "title": "Opus Check - Lista de Tarefas",
+      "description": "Opus Check é uma aplicação web para listar tarefas do dia-a-dia!"
+    },
+    "webscraping": {
+      "title": "Web Scraping - Robô de Extração de Dados",
+      "description": "Robô de Extração de Dados da Magazine Luiza"
+    },
+    "rick-and-morty-api": {
+      "title": "Rick and Morty API App",
+      "description": "Este é um projeto simples de uma aplicação web que utiliza a API do desenho animado Rick and Morty para exibir informações sobre os personagens."
+    },
+    "youtube-api": {
+      "title": "YouTube Simples com API",
+      "description": "Youtube simples utilizando uma API criada por mim."
+    },
+    "projeto-sass-css": {
+      "title": "Calmaria Spa Landing Page",
+      "description": "Landing page feito com SASS no CSS!"
+    },
+    "minecraft-best-mods": {
+      "title": "Minecraft Best Mods",
+      "description": "Um site com foco em Responsividade utilizando a técnica MobileFirst."
+    },
+    "ping-pong": {
+      "title": "Ping Pong Game",
+      "description": "Nesse jogo seu objetivo é rebater a bolinha e não deixar o oponente fazer pontos!"
+    },
+    "atravessando-a-rua": {
+      "title": "Atravessando a Rua",
+      "description": "Nesse jogo seu objetivo é atravessar a rua.. mas cuidado com os carros!"
+    },
+    "live": "Ver projeto",
+    "code": "Ver código",
+    "showAll": "Mostrar todos",
+    "relevant": "Mais relevantes",
+    "lessRelevant": "Menos relevantes"
+  },
+  "contact": {
+    "title": "Vamos Conversar?",
+    "description": "Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades para fazer parte das suas visões.",
+    "email": "Me Envie um Email"
+  },
+  "time-machine": {
+    "title":"Gostaria de voltar ao passado?",
+    "description": "Veja as versões antigas do meu portfólio:",
+    "img-description1": "Portfólio — Versão 2022",
+    "img-description2": "Portfólio — Versão 2023",
+    "button": "Fechar"
+  },
+  "chat-bot": {
+    "chat-placeholder": "Olá! Pergunte-me sobre as habilidades, experiência, projetos ou curiosidades do Ryan.",
+    "placeholder": "Digite sua mensagem...",
+    "tooltip": "Tire suas dúvidas sobre o Ryan aqui!",
+    "ai-name": "Ryan Lira IA"
+  }
+}
