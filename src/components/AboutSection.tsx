@@ -38,6 +38,7 @@ export function AboutSection() {
       whileInView="visible"
       viewport={{ once: true }}
       variants={containerVariants}
+      id="sobre"
     >
       <motion.h2
         className="mb-8 text-3xl font-bold md:text-4xl"

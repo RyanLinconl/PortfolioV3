@@ -8,7 +8,7 @@ export function SkillsSection() {
   const { t } = useTranslation('translation');
 
   return (
-    <section className="mb-12 section-padding bg-background text-foreground">
+    <section className="mb-12 section-padding bg-background text-foreground" id="habilidades">
       <h2 className="mb-2 text-3xl font-bold">{t("skills.title")}</h2>
       <p className="mb-6 text-muted-foreground">{t("skills.subtitle")}</p>
 
