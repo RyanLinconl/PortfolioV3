@@ -10,8 +10,8 @@ import TranslationsProvider from "@/components/providers/TranslationsProvider";
 
 const i18nNamespaces = ['translation'];
 
-export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params;
+export default async function Home({ params }: { params: Promise<{ locale?: string }> }) {
+  const locale = (await params).locale || 'pt'; 
   const { resources } = await initTranslations(locale, i18nNamespaces);
 
   return (
